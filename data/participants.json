@@ -1,0 +1,7 @@
+{
+  "participants": [
+    {"id": "steffen", "name": "Steffen Kern", "role": "Bildhauer"},
+    {"id": "jens", "name": "Jens Frommhold", "role": "Töpfermeister"},
+    {"id": "karsten", "name": "Karsten Piller", "role": "Künstler / Dokumentation"}
+  ]
+}

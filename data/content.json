@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "title": "Die Wiederbegegnung mit der Königsbrücker Madonna",
+    "subtitle": "Reisebericht 2026 · Salzburg – Venedig – Piacenza – Cavallino",
+    "authors": ["Steffen Kern", "Jens Frommhold", "Karsten Piller"],
+    "date": "20. September 2026",
+    "place": "Basilica di San Sisto, Piacenza",
+    "version": "1.0"
+  },
+  "navigation": [
+    {"id": "intro", "label": "Einleitung"},
+    {"id": "madonna", "label": "Die Madonna"},
+    {"id": "baselitz", "label": "Baselitz"},
+    {"id": "salzburg", "label": "Salzburg"},
+    {"id": "venedig", "label": "Venedig"},
+    {"id": "piacenza", "label": "Piacenza"},
+    {"id": "verlaengerung", "label": "Verlängerung"},
+    {"id": "galerie", "label": "Galerie"}
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": "Vom historischen Erbe zur eigenen Spurensuche",
+      "body": [
+        "Der tiefere Grund dieser europäischen Reise gründet in einer vielschichtigen kunsthistorischen, familiären – und nicht zuletzt wunderbar menschlichen Achse.",
+        "Über die Jahre hatten immer wieder sächsische Reiselustige berichtet, die es nach Piacenza verschlagen hatte: Sobald in der Basilica di San Sisto durchsickerte, dass die Gäste aus Sachsen stammten, die Heimat der Königsbrücker Madonna teilten oder gar Steffen Kern und Jens Frommhold kannten, öffneten sich Türen und Herzen der Gemeinde. Man schwärmte in höchsten Tönen vom „artista ceramico“, stieß mit Spumante an, und die Würdenträger brachten stets ihre tief empfundene Dankbarkeit sowie eine herzliche Gastfreundschaft zum Ausdruck.",
+        "Diese Berichte weckten das Bedürfnis und die Freude, nach über zwei Jahrzehnten persönlich an diesen Ort der Begegnung zurückzukehren."
+      ],
+      "images": [
+        {"file": "01_drei_freunde_radeberger.jpg", "caption": "Steffen Kern, Jens Frommhold & Karsten Piller"},
+        {"file": "19_drei_freunde_junger.jpg", "caption": "Die drei Handwerker und Künstler"}
+      ]
+    },
+    {
+      "id": "madonna",
+      "title": "Die Königsbrücker Madonna",
+      "body": [
+        "Im Jahr 1512/13 schuf Raffael für die Benediktiner-Mönche der Basilica di San Sisto sein wohl berühmtestes Altargemälde: die Sixtinische Madonna. Über 240 Jahre verblieb das Meisterwerk in der italienischen Basilika, ehe König August III. es 1754 nach langen Verhandlungen für die Kurfürstliche Kunstsammlung ankaufte und nach Dresden holen ließ, wo es bis heute in der Gemäldegalerie Alte Meister seine Heimat hat.",
+        "Diesen geschichtlichen Faden griffen im Dezember 2005 der sächsische Bildhauer Steffen Kern, Töpfermeister Jens Frommhold und der Künstler Karsten Piller auf. In der Königsbrücker Töpferei Frommhold – einem Traditionsbetrieb mit 175-jähriger Handwerksgeschichte – formten sie aus heimischem sächsischem Ton ein 225 kg schweres Keramikrelief (170 × 230 cm) als Neuinterpretation des Motivs.",
+        "Vor der Reise gen Süden wurde die Königsbrücker Madonna im Rahmen eines ökumenischen Gottesdienstes in der Königsbrücker Hauptkirche feierlich geweiht und gesegnet. Bei dieser Andacht überreichte der Königsbrücker Küster Werner Lindner den Reisenden das „Ewige Licht aus Jerusalem“, um es als spirituelles Band mit nach Italien zu tragen.",
+        "Dass dieses monumentale Werk überhaupt seinen Weg nach Piacenza fand, war einem starken Netzwerk lokaler Unterstützer zu verdanken: dem Weinhändler Uwe Stephan, dem ortsässigen Italiener D’Errico und dem Autohaus Hörig, das die logistische Umsetzung ermöglichte."
+      ],
+      "images": [
+        {"file": "03_enthuellung_madonna_san_sisto.jpg", "caption": "Enthüllung der Königsbrücker Madonna in San Sisto (2005)"},
+        {"file": "18_madonna_auf_platz.jpg", "caption": "Die Madonna auf dem Weg"},
+        {"file": "05_pfarrer_vor_madonna.jpg", "caption": "Pfarrer vor dem Keramikrelief"},
+        {"file": "17_keramik_schuh_gruppe.jpg", "caption": "Gemeinsame keramische Arbeit"}
+      ]
+    },
+    {
+      "id": "baselitz",
+      "title": "Georg Baselitz – familiäre und künstlerische Verbindung",
+      "body": [
+        "Für Steffen Kern barg diese Spurensuche zudem eine zutiefst persönliche Dimension: Er ist der Neffe von Georg Baselitz (geboren als Hans-Georg Kern in Deutschbaselitz). Baselitz, der im Frühjahr 2026 verstarb und weltweit als einer der bedeutendsten bildenden Künstler der Gegenwart gilt, trug zeitlebens die tiefen Einflüsse seiner Heimat in sich. In Königsbrück lagen prägende Wurzeln seiner Kindheit und Jugend; diese Erinnerungen hielt er unter anderem in seinen Werken mit dem Titel „Die Holunderbüsche vom Badweg“ künstlerisch fest.",
+        "Das Spätwerk von Georg Baselitz ist eine schonungslose und zutiefst persönliche Auseinandersetzung mit dem Altern, der Vergänglichkeit und der schwindenden Lebenskraft. Obwohl er seine monumentalen Formate zuletzt im Rollstuhl sitzend und unter großen Schmerzen malen musste, nutzte er diese physischen Grenzen als gestalterisches Werkzeug. In seinen allerletzten Arbeiten dominiert sakral wirkender Goldgrund, auf dem geisterhafte, nackte und auf dem Kopf stehende Körper schweben – intime Liebeserklärungen an seine Ehefrau Elke und gleichzeitig Vorboten seines eigenen Todes."
+      ],
+      "images": [
+        {"file": "02_baselitz_und_neffe_steffen.jpg", "caption": "Georg Baselitz und sein Neffe Steffen Kern"},
+        {"file": "04_baselitz_vor_sixtinischer_madonna.jpg", "caption": "Baselitz vor Raffaels Sixtinischer Madonna"},
+        {"file": "10_baselitz_portrait_spaet.jpg", "caption": "Georg Baselitz in seinen letzten Jahren"}
+      ]
+    },
+    {
+      "id": "salzburg",
+      "title": "Salzburger Impulse",
+      "body": [
+        "Den Auftakt der Reise 2026 bildete ein vielschichtiges Kunstprogramm in Salzburg, das im Schatten des Gedenkens an das Lebenswerk von Georg Baselitz stand."
+      ],
+      "subsections": [
+        {
+          "title": "Galerie Thaddaeus Ropac & Rupertinum – „Baselitz Manifeste“",
+          "body": [
+            "In der Galerie Thaddaeus Ropac kam es zu einer tief bewegenden Begegnung mit einem Werk von Georg Baselitz, auf dem seine Mutter Liselotte abgebildet ist – die Großmutter von Steffen Kern. Im Anschluss folgte der Besuch der Ausstellung „Baselitz Manifeste“ im Rupertinum. Diese Schau widmete sich explizit den Anfängen seines Schaffens: Gezeigt wurden seine frühesten, radikalen Arbeiten, Zeichnungen sowie die theoretischen Fundamente und Manifeste, mit denen Baselitz in den frühen 1960er-Jahren die deutsche Nachkriegskunst aufrüttelte.",
+            "Den Abend krönte die Gruppe hoch über den Dächern der Stadt: Auf der Festung Hohensalzburg genossen die drei ein festliches Konzert in historischer Kulisse – eingehüllt in die zeitlosen Melodien Mozarts und den weiten Panoramablick über das nächtliche Salzburg."
+          ]
+        },
+        {
+          "title": "Museum der Moderne · „Baselitz Jetzt“",
+          "body": [
+            "Am frühen Morgen, unmittelbar vor der Weiterfahrt nach Venedig, besuchte die Gruppe auf dem Mönchsberg im Museum der Moderne die Ausstellung „Baselitz Jetzt“. Diese hatte Georg Baselitz im März 2026 vor seinem Ableben noch selbst gemeinsam mit der Galerie Thaddaeus Ropac kuratiert und persönlich eröffnet. Die Ausstellung widmete sich seinen letzten Schöpfungen – berührende, fast schwerelose Spätwerke, die in ihrer feinen Malerei zutiefst von den essenziellen Themen des Lebens durchdrungen sind: Familie, innige Liebe, das Älterwerden und der leise Abschied."
+          ]
+        }
+      ],
+      "images": [
+        {"file": "13_galerie_ropac_salzburg.jpg", "caption": "Galerie Thaddaeus Ropac, Villa Kast"},
+        {"file": "07_museum_moderne_moenchsberg.jpg", "caption": "Museum der Moderne auf dem Mönchsberg"},
+        {"file": "08_lift_mdm_salzburg.jpg", "caption": "Eingang Lift Museum der Moderne"},
+        {"file": "14_hapimag_salzburg.jpg", "caption": "Hapimag Residenz Salzburg"},
+        {"file": "15_hapimag_gasse_salzburg.webp", "caption": "Abend in der Salzburger Altstadt"}
+      ]
+    },
+    {
+      "id": "venedig",
+      "title": "Kunstschätze Venetiens",
+      "body": [
+        "Nach Salzburg folgte die Weiterreise nach Venedig, um dort vor den imposanten Werkgruppen von Georg Baselitz innezuhalten. Abseits der überlaufenen Touristenpfade offenbarte sich Venedig der Gruppe von seiner bezauberndsten Seite. Sie schlugen ihr Quartier auf der ruhigen, jenseitigen Seite der Lagune auf (Hapimag Cavallino)."
+      ],
+      "subsections": [
+        {
+          "title": "Palazzo Grimani · Archinto",
+          "body": [
+            "Im Palazzo Grimani begegneten sie der Archinto-Serie – zwölf großformatigen Porträts, die schemenhaft und wie hinter einem feinen Schleier verborgen in den Renaissance-Nischen des Palastes hängen. Die Bilder sind exakt in die historischen Stuckrahmen aus dem 18. Jahrhundert eingelassen, in denen einst die Ahnenporträts der Familie Grimani hingen."
+          ]
+        },
+        {
+          "title": "Fondazione Giorgio Cini · Eroi d’Oro",
+          "body": [
+            "In der Fondazione Giorgio Cini (Insel San Giorgio Maggiore) sahen sie die Eroi d’Oro („Die goldenen Helden“). Baselitz verstarb nur wenige Tage vor der Eröffnung und hat die Ausstellung als sein eigenes Monument inszeniert. In zwei historischen Sälen hängen kolossale goldene Leinwände. Auf dem flimmernden Goldhintergrund – der an byzantinische Ikonen erinnert – schweben feine, fast zerbrechliche schwarze Tuschezeichnungen von ihm und seiner Frau Elke."
+          ]
+        }
+      ],
+      "images": [
+        {"file": "09_palazzo_grimani_archinto.jpg", "caption": "Palazzo Grimani – Archinto-Serie"},
+        {"file": "12_baselitz_palazzo_grimani.jpg", "caption": "Georg Baselitz im Palazzo Grimani"},
+        {"file": "11_fondazione_cini_logo.jpg", "caption": "Fondazione Giorgio Cini"},
+        {"file": "16_vaporetto_canal_grande.jpg", "caption": "Überfahrt durch die Lagune"}
+      ]
+    },
+    {
+      "id": "piacenza",
+      "title": "Piacenza · Gastfreundschaft unter dem Dach von San Sisto",
+      "body": [
+        "An den Pforten der Basilica di San Sisto empfing die Gemeinde die sächsischen Gäste mit großer Herzlichkeit. Der neue Pfarrer Don Paolo Mascilongo begrüßte die Gruppe gemeinsam mit Giorgio, dem gut deutschsprachigen Verwalter der Pfarrei.",
+        "Ein Höhepunkt des Besuchs war die Teilnahme am sonntäglichen Festgottesdienst zu Ehren des Heiligen Sixtus – dem Patron der Basilika und Namensgeber der Sixtinischen Madonna. Während des feierlichen Hochamtes wurde die Delegation aus Sachsen namentlich gewürdigt, gefolgt von einer Segnung und dem ausdrücklichen Dank der Pfarrgemeinde für das dauerhafte Geschenk der Königsbrücker Madonna.",
+        "In feierlicher Ehrerbietung gedachte man in diesem Rahmen auch des einstigen Pfarrers Don Giuseppe. Er war es gewesen, der im Jahr 2005 das Anliegen der sächsischen Künstler verstanden, das Geschenk als würdig für die Basilika befunden und mit offenen Armen angenommen hatte. Don Paolo Mascilongo berichtete bewegt davon, wie Don Giuseppe bis zuletzt voller Wohlwollen und großer Freude von den Besuchern aus Königsbrück und ihrer Geste gesprochen hatte."
+      ],
+      "subsections": [
+        {
+          "title": "Wiedersehen im Kreuzgang und das Licht aus Jerusalem",
+          "body": [
+            "Im Anschluss an die Liturgie überreichten der Pfarrer und die Kirchengemeinde den sächsischen Gästen als Zeichen des Dankes und der Verbundenheit Geschenke. Nach dieser Würdigung trat die Gruppe gemeinsam mit der Gemeinde zum traditionellen Patronatsfestessen im historischen Kreuzgang zusammen.",
+            "Hier kam es zu einem unvorhergesehenen, tief berührenden Moment: Ein Gemeindemitglied namens Paolo stand zunächst zurückhaltend am Rand, bis er von den Reisenden wiedererkannt wurde. Die Freude war groß, als klar wurde, dass Paolo bereits bei der feierlichen Übergabe im Dezember 2005 dabei gewesen war. Auch seine Familie schloss sich der Runde an.",
+            "Damals hatte Paolo auf den Erinnerungsfotos das Ewige Licht aus Jerusalem gehalten, das Küster Werner Lindner den drei Reisenden mit auf den Weg gegeben hatte. Paolo holte ebenjene Leuchte hervor, die in der Basilika bis heute an einem besonderen, exponierten Platz in Ehren gehalten wird. Am Ort des Geschehens entstanden sogleich neue Erinnerungsfotos."
+          ]
+        }
+      ],
+      "images": [
+        {"file": "06_anstoßen_spumante.jpg", "caption": "Anstoßen mit Spumante – Verbundenheit"}
+      ]
+    },
+    {
+      "id": "verlaengerung",
+      "title": "Herzlicher Abschied und unverhoffte Reisetage",
+      "body": [
+        "Die Begegnung klang in einer von großer Verbundenheit geprägten Stimmung aus. Beim Abschied bekräftigten die Vertreter der Basilika und die sächsischen Gäste ihren Wunsch, diesen lebendigen Faden der Freundschaft auch in Zukunft aufrechtzuerhalten.",
+        "Mit diesen bleibenden Eindrücken kehrte die Gruppe anschließend nach Cavallino zurück. Dort dehnte sich die Reise um vier unfreiwillige, aber genussvolle Tage unter Freunden aus – bedingt durch einen Unfall auf der Autostrada E70 bei Brescia (beschädigte Frontscheibe und verlorenes vorderes Kennzeichen). Die offizielle Verlustanzeige wurde am 21. September 2026 in Jesolo aufgenommen.",
+        "Statt der geplanten Rückkehr nach Salzburg blieb die Gruppe länger an der Adria. Zeit zum Durchatmen, für Gespräche, Strandgänge und das Verarbeiten des Erlebten."
+      ],
+      "images": []
+    },
+    {
+      "id": "galerie",
+      "title": "Galerie – Einblicke",
+      "body": [
+        "Eine Auswahl von Momenten der Reise und der gemeinsamen Arbeit. Die ausführliche Medien-Timeline (alle Stationen mit Fotos und Videos) liegt als separate HTML-Datei vor und kann bei Bedarf ergänzt werden."
+      ],
+      "images": [
+        {"file": "01_drei_freunde_radeberger.jpg", "caption": "Die drei Freunde"},
+        {"file": "17_keramik_schuh_gruppe.jpg", "caption": "Keramische Arbeit"},
+        {"file": "15_hapimag_gasse_salzburg.webp", "caption": "Salzburg am Abend"}
+      ]
+    }
+  ]
+}
